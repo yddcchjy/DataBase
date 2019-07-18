@@ -401,3 +401,7 @@ SET SQL_SAFE_UPDATES = 1;
 - 对数据重构提供了一定的逻辑独立性
 - 对机密数据提供保护
 - 更清晰的表达查询
+
+Oracle和MySql的不同：
+​	mysql  2mod1 
+​	oracle  mod（2,1）
